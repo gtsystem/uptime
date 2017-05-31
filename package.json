@@ -20,6 +20,7 @@
     "nodemailer": "0.3.35",
     "net-ping":  "1.1.7",
     "js-yaml": "2.1.0",
+    "xml2js": "0.4.17",
     "jsonschema": "1.1.1",
     "webpagetest": "0.2.0"
   },
